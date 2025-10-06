@@ -19,7 +19,7 @@ This project simulates an enterprise-scale **cloud data migration** and **analyt
 
 ## 🗺️ Architecture Overview
 
-![Azure Data Lakehouse Architecture](https://github.com/rinithreddy14/Mysql-to-azure-DataMigration/blob/main/diagram-export-7-15-2025-4_30_25-PM.png?raw=true)
+![Azure Data Lakehouse Architecture](/diagram-export-7-15-2025-4_30_25-PM.png)
 
 ## 🧱 Tech Stack
 
